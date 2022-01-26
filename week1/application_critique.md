@@ -2,7 +2,7 @@
 
 Experiment with Blob Opera: https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw?hl=en
 
-<img src=2.png width="30" height="30">
+<img src=2.png width="100" height="100">
 Blob Opera is a web application that allows users to create their own opera-inspired song by dragging four colorful, blobby characters up, down, backwards, or forwards to produce different notes and vowels. The application has been developed as a machine learning experiment by David Lee in collaboration with Google Arts and Culture in which a neural network algorithm learned how to sing using audios from four opera singers.
 
 ### What I liked about the application: 
